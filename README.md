@@ -1,3 +1,3 @@
 # kaggle_learning
 
-kaggle项目实战
+kaggle项目实战演练
